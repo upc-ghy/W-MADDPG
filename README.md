@@ -14,5 +14,7 @@ With the rapid development of IoT technology, various computation-intensive and 
 # Contact information of some authors:
 
 **Shanchen Pang:** pangsc@upc.edu.cn
+
 **Teng Wang:** s21070024@s.upc.edu.cn
+
 **Haiyuan Gui:** guihaiyuan736570@gmail.com

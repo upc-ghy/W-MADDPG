@@ -1,12 +1,13 @@
 # An intelligent task offloading method based on multi-agent deep reinforcement learning in ultra-dense heterogeneous network with mobile edge computing
 
 # Requirements
-'''
+
+```
 python 3.7
 tensorflow
 numpy
 pandas
-'''
+```
 
 # Abstract
 
